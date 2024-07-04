@@ -16,6 +16,6 @@ Carvan Website is a simple, responsive static website designed to provide inform
 
 ## Demo
 
-Check out the live demo of the Carvan Website [here]([#](https://carvan100.netlify.app/)).
+Check out the live demo of the Carvan Website(https://carvan100.netlify.app/)).
 
 
